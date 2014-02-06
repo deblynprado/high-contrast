@@ -1,0 +1,15 @@
+/* line 10, ../sass/partials/default/_typography.scss */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  color: black;
+}
+
+/* line 7, ../sass/style.scss */
+body {
+  background-color: white;
+}

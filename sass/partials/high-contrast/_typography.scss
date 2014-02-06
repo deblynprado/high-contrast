@@ -1,0 +1,35 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+address,
+quote,
+blockquote,
+table,
+td,
+tr,
+th,
+thead,
+tbody,
+tfoot,
+span {
+	color: $high-text-color;
+}
+
+a {
+	color: $high-link-color;
+
+	&:visited,
+	&:focus {
+		color: $high-visited-color;
+	}
+}
+
+table {
+	th {
+		color: $high-table-head-color;
+	}
+}

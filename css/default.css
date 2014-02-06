@@ -1,0 +1,62 @@
+/* line 20, ../sass/partials/default/_typography.scss */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+address,
+quote,
+blockquote,
+table,
+td,
+tr,
+th,
+thead,
+tbody,
+tfoot,
+span {
+  color: black;
+}
+
+/* line 24, ../sass/partials/default/_typography.scss */
+a {
+  color: blue;
+}
+/* line 28, ../sass/partials/default/_typography.scss */
+a:visited, a:focus {
+  color: #6666ff;
+}
+
+/* line 34, ../sass/partials/default/_typography.scss */
+table th {
+  color: #cccccc;
+}
+
+/* line 3, ../sass/partials/default/_table.scss */
+table,
+tr,
+td {
+  border: 1px solid black;
+}
+/* line 6, ../sass/partials/default/_table.scss */
+table th,
+tr th,
+td th {
+  background: #333333;
+}
+/* line 11, ../sass/partials/default/_table.scss */
+table th,
+table td,
+tr th,
+tr td,
+td th,
+td td {
+  padding: 10px;
+}
+
+/* line 8, ../sass/default.scss */
+body {
+  background-color: white;
+}

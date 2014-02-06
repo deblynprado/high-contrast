@@ -1,0 +1,14 @@
+table,
+tr,
+td {
+	border: 1px solid $default-table-border;
+
+	th {
+		background: $default-head-background;
+	}
+
+	th,
+	td {
+		padding: 10px;
+	}
+}

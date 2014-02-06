@@ -1,0 +1,10 @@
+// Import
+@import "partials/base-default.scss";
+
+// Partials
+@import "partials/default/typography.scss";
+@import "partials/default/table.scss";
+
+body {
+  background-color: $white;
+}

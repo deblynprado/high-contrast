@@ -1,0 +1,27 @@
+// Colors
+
+$white	: #FFF;
+$gray 	: darken($white, 50%);
+$yellow : #FFFF00;
+$blue 	: #0000ff;
+$black	: #000;
+
+// Links Color
+$high-link-color: $yellow;
+$high-visited-color: lighten($high-link-color, 20%);
+
+$default-link-color: $blue;
+$default-visited-color: lighten($default-link-color, 20%);
+
+// Text Color
+$high-text-color: $white;
+$default-text-color: $black;
+
+// Table Color
+$high-table-border: #bb946c;
+$high-table-head-color: lighten($gray, 60%);
+$high-head-background : #31bb3e;
+
+$default-table-border: $black;
+$default-table-head-color: lighten($gray, 30%);
+$default-head-background: lighten($black, 20%);

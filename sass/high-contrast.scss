@@ -1,0 +1,10 @@
+// Import
+@import "partials/base-default.scss";
+
+// Partials
+@import "partials/high-contrast/typography.scss";
+@import "partials/high-contrast/table.scss";
+
+body {
+  background-color: $black;
+}
