@@ -1,4 +1,6 @@
-high-contrast
-=============
+# High Contrast
+***
 
-CSS and JS to make high contrast in your webpage.
+This project show how to make high contrast in your web page to improve accessibility.  
+
+Please feel free to contribute
